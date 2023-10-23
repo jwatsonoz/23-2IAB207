@@ -1,2 +1,2 @@
 # 23-2IAB207
-Test code for python anywhere deployment
+using the VSC interface instead of terminal
